@@ -1,4 +1,3 @@
-# 该项目是kaggle上的一个正式赛
-## 链接:https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overview
+# 链接:https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overview
 目标要求是提升接受异体造血细胞移植（HCT）患者的移植存活率预测<br>数据集包含59个与造血干细胞移植（HSCT）相关的变量，涵盖受体和捐献者的多种人口统计和医疗特征，如年龄、性别、族裔、疾病状况及治疗细节。主要关注的结果是无事件存活，由变量efs表示，而到无事件生存的时间则由变量efs_time表示。<br>要求参赛者提交对测试数据集的预测，作为实际风险评分。这些评分代表模型对每位患者移植后风险的评估。风险评分越高，通常意味着目标事件发生的可能性越高。
 
