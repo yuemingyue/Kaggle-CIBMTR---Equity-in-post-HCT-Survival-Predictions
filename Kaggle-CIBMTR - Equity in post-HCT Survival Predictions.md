@@ -30,7 +30,7 @@
 
 对上述模型赋予不同权重进行加权融合
 
-![image-20260124103612365](F:\桌面\Kaggle-CIBMTR - Equity in post-HCT Survival Predictions.assets\image-20260124103612365.png)
+<img width="829" height="475" alt="截屏2026-05-25 12 26 04" src="https://github.com/user-attachments/assets/ed802b15-5b0f-4ff2-954d-27101c842edd" />
 
 ## 前排方案：
 
